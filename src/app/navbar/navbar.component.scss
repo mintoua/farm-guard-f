@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav {
+    li {
+      margin-right: 10px;
+      
+      a {
+        color: #333;
+        text-decoration: none;
+        
+        &:hover {
+          color: #555;
+        }
+      }
+    }
+  }
+  
